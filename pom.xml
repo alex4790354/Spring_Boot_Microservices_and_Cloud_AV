@@ -17,8 +17,8 @@
 
 
     <modules>
-        <!--<module>mobile-app-ws</module>
-        <module>PhotoAppApiUsers</module>-->
+        <!--<module>mobile-app-ws</module>-->
+        <module>PhotoAppApiUsers</module>
         <module>PhotoAppDiscoveryService</module>
     </modules>
 </project>
